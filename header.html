@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Colombo HCI Lab</title>
+  <style>
+    .hamburger {
+      display: none;
+      font-size: 28px;
+      cursor: pointer;
+    }
+
+    .navbar {
+      display: block;
+    }
+
+    @media (max-width: 768px) {
+      .hamburger {
+        display: block;
+      }
+
+      .navbar {
+        display: none;
+      }
+
+      .navbar.open {
+        display: block;
+      }
+
+      .nav-menu {
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+      }
+    }
+
+    .nav-menu {
+      list-style: none;
+      display: flex;
+      gap: 20px;
+    }
+
+    .nav-item a {
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="main-header">
+    <a href="/index.html" class="logo">
+      <img src="/images/logo.png" alt="Colombo HCI Lab Logo" />
+    </a>
+
+    <div class="header-content">
+      <div class="header-text">
+        <h1>Colombo HCI Lab</h1>
+      </div>
+
+      <!-- Hamburger icon (mobile only) -->
+      <div class="hamburger" onclick="toggleNav()">☰</div>
+
+      <!-- Navigation Menu -->
+      <nav class="navbar" id="mainNav">
+        <ul class="nav-menu">
+  <li class="nav-item"><a href="/" class="nav-link">Home</a></li>
+  <li class="nav-item"><a href="/Research/" class="nav-link">Research</a></li>
+  <li class="nav-item"><a href="/Team/" class="nav-link">Team</a></li>
+  <li class="nav-item"><a href="/Contact/" class="nav-link">Contact</a></li>
+</ul>
+
+      </nav>
+
+    </div>
+  </header>
+
+  <!-- JS to toggle menu -->
+  <script>
+    function toggleNav() {
+      var nav = document.getElementById("mainNav");
+      nav.classList.toggle("open");
+    }
+
+    // Optional: Close nav when clicking outside
+    window.addEventListener("click", function(event) {
+      const nav = document.getElementById("mainNav");
+      const hamburger = document.querySelector(".hamburger");
+      if (!nav.contains(event.target) && !hamburger.contains(event.target)) {
+        nav.classList.remove("open");
+      }
+    });
+  </script>
+
+</body>
+</html>

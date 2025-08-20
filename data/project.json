@@ -1,0 +1,42 @@
+{
+  "bannerDescription":"Discover our ongoing research projects and explore our latest publications in Human-Computer Interaction and related fields.",  
+  "projects": [
+    {
+      "id": "topic-1",
+      "name": "Deepfake Literacy Intervention",
+      "description": "Educating the public to recognize and respond to deepfake media.",
+      "researchers": ["Dilki Sewwandi,", "Dilaxshini Dunstan"],
+       "image": "/images/project1.png"
+    },
+    {
+      "id": "topic-2",
+      "name": "Enhancing adaptive user interfaces through realtime cognitive load detection",
+      "description": "This research explores how Adaptive User Interfaces (AUIs) can be improved by integrating real-time cognitive load assessment to optimize user experience, reduce mental effort, and boost interaction quality. It focuses on detecting users' mental workload and dynamically adjusting interface elements-like layout and navigation-non-intrusively, making systems more intuitive and user-centered.",
+      "researchers": ["Samudi Perera"],
+      "image": "/images/project2.jpeg"
+    },
+    {
+      "id": "topic-3",
+      "name": "Explainable Abstractive Text Summarization Using Transformer and LSTM Architectures: A Comparative Study",
+      "description": "This research focuses creating a LSTM-based and transformer-based explainable text summerization models  and conducting a comparative analysis on various metrics like explanation quality, summery quality and computational analysis.",
+      "researchers": ["Nirasha Nelki"],
+      "image": "/images/project3.png"
+    },
+    {
+      "id": "topic-4",
+      "name": "Designing a New AI-Integrated Development Methodology for Enhanced Efficiency",
+      "description": "This research introduces a new software development methodology that integrates AI agents across all phases-like planning, coding, testing, and maintenance-to improve team productivity, reduce delivery time, and enhance code quality. The framework is designed to be adaptable for different project types and team sizes, positioning AI as an active collaborator in modern development practices.",
+      "researchers": ["Nipun Bhathiya"],
+      "image": "/images/project4.png"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Labeling Synthetic Content: User Perceptions of Label Designs for AI-Generated Content on Social Media",
+      "authors": "Gamage, Dilrukshi;Sewwandi, Dilki; Zhang, Min; Bandara, Arosha K",
+      "venue": "CHI 2025",
+      "description": "This study tested ten warning label designs for AI-generated content on social media and found that while labels increased belief that content was AI-made, only certain designs were trusted—yet none significantly changed user engagement like likes or shares. Differences in engagement were more influenced by content type, such as political versus entertainment.",
+      "pdf": "/publications/CHI2025.pdf"
+    }
+  ]
+}

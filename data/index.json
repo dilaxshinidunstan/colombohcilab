@@ -1,0 +1,52 @@
+{
+  "bannerDescription": "The Colombo HCI lab at University of  Colombo School of Computing. We are working on exciting research in Human -Computer Interaction. By focusing on user needs, testing new ways to interact with technology, and ensuring our designs are practical, we aim to create technologies that improve everyday life.",
+"projects": [
+    {
+      "image": "/images/project1.png",
+      "title": "Deepfake Literacy",
+      "link": "/Research/index.html#topic-1",
+      "researchers": "Dr.Dilrukshi Gamage, Ms. Dilki Sewwandi, Ms. Dilaxshini Dunstan"
+    },
+    {
+      "image": "/images/project2.jpeg",
+      "title": "Cognitive Aware Interfaces",
+      "link": "/Research/index.html#topic-2",
+      "researchers": "Ms. Samudi Perera"
+    },
+    {
+      "image": "/images/project3.png",
+      "title": "AI Explainability",
+      "link": "/Research/index.html#topic-3",
+      "researchers": "Ms. Nirasha Nelki"
+    },
+    {
+      "image": "/images/project4.png",
+      "title": "AI-Driven Development",
+      "link": "/Research/index.html#topic-4",
+      "researchers": "Mr. Nipun Bhathiya"
+    }
+
+  ],
+  "news": [
+    {
+      "date": "August 2025",
+      "heading": "New RA's Shreeti, Sumaiya, and Irfan join the lab",
+      "link": "https://colombo-hci-lab.github.io/Team/"
+    },
+    {
+      "date": "April 2025",
+      "heading": "Dr. Dilrukshi and Dilki presented our research at CHI2025 in Yokohama,Japan",
+      "link": "https://www.linkedin.com/posts/dilrukshigamage_chi2025-srilanka-activity-7322836561220272131-bkvb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAsCg4UBgcERMrhDSvFPeF45iiGB-7soQ6o"
+    },
+    {
+      "date": "April 2025",
+      "heading": "New RA's Dilki and Dilaxshini join the lab",
+      "link": "https://colombo-hci-lab.github.io/Team/"
+    },
+    {
+      "date": "Dec 2024",
+      "heading": "Dr. Dilrukshi was awarded the presigious Google Acedemic Research Award",
+      "link": "https://www.linkedin.com/feed/update/urn:li:activity:7251431450653175808/"
+    }   
+  ]
+}

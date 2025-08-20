@@ -1,0 +1,113 @@
+{
+  "bannerDescription": "We are excited to introduce our team with you and happy to hear from motivated and passionate students and researchers who want to join and collaborate with us!",
+  "director": {
+    "name": "Dr.D.A.S.Atukorale",
+    "photo": "/images/director.jpg",
+    "linkedin": "https://www.linkedin.com/in/johndoe",
+    "email": "mailto:aja@ucsc.cmb.ac.lk"
+  },
+  "supervisor": {
+    "name": "Dr. Dilrukshi Gamage",
+    "photo": "/images/supervisor.jpg",
+    "linkedin": "https://www.linkedin.com/in/dilrukshigamage/",
+    "email": "mailto:dilrukshi.gamage@gmail.com",
+     "github": "https://github.com/icelearn"
+   },
+  "researchAssistants": [
+    {
+      "name": "Dilki Sewwandi",
+      "photo": "/images/RA_1.png",
+      "linkedin": "https://www.linkedin.com/in/dilki-sewwandi",
+      "email": "mailto:dsewwandi2001@gmail.com",
+      "github": "https://github.com/dilkiSewwandi"
+    },
+    {
+      "name": "Dilaxshini Dunstan",
+      "photo": "/images/RA_2.jpg",
+      "linkedin": "https://www.linkedin.com/in/dilaxshini-dunstan",
+      "email": "mailto:dilaxshini16dunstan@gmail.com",
+      "github": "https://github.com/dilaxshini-dunstan"
+    },
+    {
+      "name": "Shreeti Shubham",
+      "photo": "/images/shreeti.jpg",
+      "linkedin": "https://www.linkedin.com/in/shreeti-s-1399051ab",
+      "email": "mailto:shubhamshreeti67@gmail.com",
+      "github": "#"
+    },
+    {
+      "name": "Sumaia Arefin Ritu",
+      "photo": "/images/sumaiya.jpg",
+      "linkedin": "https://www.linkedin.com/in/sumaia-arefin-a87247248",
+      "email": "mailto:sumaiaritu550@gmail.com",
+      "github": "https://github.com/sumaia-arefin"
+    },
+    {
+      "name": "Muhammad Irfan ",
+      "photo": "/images/irfan.jpg",
+      "linkedin": "https://www.linkedin.com/in/muhammad-irfan445",
+      "email": "mailto:shubhamshreeti67@gmail.com",
+      "github": "https://github.com/muhammadirfan048"
+    }
+    
+  ],
+  "fourthYears": [
+    {
+      "name": "Samudi Perera",
+      "photo": "/images/samudi_image.jpg",
+      "linkedin": "https://www.linkedin.com/in/samudi-perera",
+      "email": "mailto:samudiperera125@gmail.com",
+      "github": "https://github.com/samudiperera09"
+    },{
+      "name": "Nipun Bhathiya",
+      "photo": "/images/4_nipun.jpg",
+      "linkedin": "https://www.linkedin.com/in/nipunbhathiya/",
+      "email": "mailto:nipunbathiya1256@outlook.com",
+      "github": "https://github.com/NightHawkNB"
+    },{
+      "name": "Nirasha Nelki",
+      "photo": "/images/nirasha_img.jpeg",
+      "linkedin": "https://www.linkedin.com/in/nirasha-nelki-84b1b421b/",
+      "email": "mailto:nirashanelki@gmail.com",
+      "github": "https://github.com/nirasha-nelki"
+    }
+    ],
+      
+      "volunteers": [
+    {
+      "name": "Rashmi Gunawardana",
+      "photo": "/images/Rashmi.png",
+      "linkedin": "https://www.linkedin.com/in/rashmi-gunawardana1",
+      "email": "mailto:nirashagunawardana9@gmail.com",
+      "github": "https://github.com/RashmiNirasha"
+    },
+    {
+      "name": "Oshan Mudannayake",
+      "photo": "/images/oshan.jpg",
+      "linkedin": "https://www.linkedin.com/in/ivantha/",
+      "email": "mailto:oshan.ivantha@gmail.com",
+      "github": "https://github.com/ivantha"
+    },
+    {
+      "name": "Kartik Joshi",
+      "photo": "/images/Kartik.jpg",
+      "linkedin": "https://www.linkedin.com/in/kartik-joshi9",
+      "email": "mailto:kartik.joshi@iiitb.ac.in",
+      "github": "https://github.com/kartix-design"
+    }
+  ],
+  "collaborators": [
+    {
+      "name": "Prof.Arosha K. Bandara",
+      "photo": "/images/AroshaBandara.jpeg",
+      "linkedin": "https://www.inkedin.com/in/akbandara",
+      "email": "mailto:arosha.bandara@open.ac.uk"
+    },
+    {
+      "name": "Dr.Min Zhang",
+      "photo": "/images/Min.jpeg",
+      "linkedin": "https://www.linkedin.com/in/avaminzhang",
+      "email": "mailto:min.zhang@open.ac.uk"
+    }
+  ]
+}
